@@ -1,0 +1,16 @@
+G:\TPC\自研Tools\BOE_WriteSN\Wml.Uitily\bin\Debug\Wml.Uitily.dll
+G:\TPC\自研Tools\BOE_WriteSN\Wml.Uitily\bin\Debug\Wml.Uitily.pdb
+G:\TPC\自研Tools\BOE_WriteSN\Wml.Uitily\obj\Debug\Wml.Uitily.csproj.CoreCompileInputs.cache
+G:\TPC\自研Tools\BOE_WriteSN\Wml.Uitily\obj\Debug\Wml.Uitily.dll
+G:\TPC\自研Tools\BOE_WriteSN\Wml.Uitily\obj\Debug\Wml.Uitily.pdb
+G:\TPC\自研Tools\BOE_WriteSN\Wml.Uitily\obj\Debug\Wml.Uitily.csproj.AssemblyReference.cache
+G:\TPC\自研Tools\BOE_WriteSN\MyUitily\Wml.Uitily\bin\Debug\Wml.Uitily.dll
+G:\TPC\自研Tools\BOE_WriteSN\MyUitily\Wml.Uitily\bin\Debug\Wml.Uitily.pdb
+G:\TPC\自研Tools\BOE_WriteSN\MyUitily\Wml.Uitily\bin\Debug\DocumentFormat.OpenXml.dll
+G:\TPC\自研Tools\BOE_WriteSN\MyUitily\Wml.Uitily\bin\Debug\NPOI.dll
+G:\TPC\自研Tools\BOE_WriteSN\MyUitily\Wml.Uitily\bin\Debug\SpreadsheetLight.dll
+G:\TPC\自研Tools\BOE_WriteSN\MyUitily\Wml.Uitily\obj\Debug\Wml.Uitily.csproj.CoreCompileInputs.cache
+G:\TPC\自研Tools\BOE_WriteSN\MyUitily\Wml.Uitily\obj\Debug\Wml.Uitily.csproj.CopyComplete
+G:\TPC\自研Tools\BOE_WriteSN\MyUitily\Wml.Uitily\obj\Debug\Wml.Uitily.dll
+G:\TPC\自研Tools\BOE_WriteSN\MyUitily\Wml.Uitily\obj\Debug\Wml.Uitily.pdb
+G:\TPC\自研Tools\BOE_WriteSN\MyUitily\Wml.Uitily\obj\Debug\Wml.Uitily.csproj.AssemblyReference.cache
