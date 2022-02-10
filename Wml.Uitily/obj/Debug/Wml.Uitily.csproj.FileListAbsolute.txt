@@ -14,3 +14,11 @@ G:\TPC\自研Tools\BOE_WriteSN\MyUitily\Wml.Uitily\obj\Debug\Wml.Uitily.csproj.C
 G:\TPC\自研Tools\BOE_WriteSN\MyUitily\Wml.Uitily\obj\Debug\Wml.Uitily.dll
 G:\TPC\自研Tools\BOE_WriteSN\MyUitily\Wml.Uitily\obj\Debug\Wml.Uitily.pdb
 G:\TPC\自研Tools\BOE_WriteSN\MyUitily\Wml.Uitily\obj\Debug\Wml.Uitily.csproj.AssemblyReference.cache
+G:\TPC\自研Tools\BOE_WriteSN\MyFramWorkUitily\Wml.Uitily\bin\Debug\Wml.Uitily.dll
+G:\TPC\自研Tools\BOE_WriteSN\MyFramWorkUitily\Wml.Uitily\bin\Debug\Wml.Uitily.pdb
+G:\TPC\自研Tools\BOE_WriteSN\MyFramWorkUitily\Wml.Uitily\bin\Debug\Interop.LabelManager2.dll
+G:\TPC\自研Tools\BOE_WriteSN\MyFramWorkUitily\Wml.Uitily\bin\Debug\stdole.dll
+G:\TPC\自研Tools\BOE_WriteSN\MyFramWorkUitily\Wml.Uitily\obj\Debug\Wml.Uitily.csproj.CoreCompileInputs.cache
+G:\TPC\自研Tools\BOE_WriteSN\MyFramWorkUitily\Wml.Uitily\obj\Debug\Wml.Uitily.csproj.CopyComplete
+G:\TPC\自研Tools\BOE_WriteSN\MyFramWorkUitily\Wml.Uitily\obj\Debug\Wml.Uitily.dll
+G:\TPC\自研Tools\BOE_WriteSN\MyFramWorkUitily\Wml.Uitily\obj\Debug\Wml.Uitily.pdb

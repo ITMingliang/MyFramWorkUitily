@@ -34,6 +34,10 @@
     <Reference Include="DocumentFormat.OpenXml">
       <HintPath>F:\MyLib\MESSpreadsheet\bin\Debug\DocumentFormat.OpenXml.dll</HintPath>
     </Reference>
+    <Reference Include="Interop.LabelManager2">
+      <HintPath>..\..\..\..\..\MES_Src\BOE.Interface\BOE_Tool_LilinPrint\bin\Debug\Interop.LabelManager2.dll</HintPath>
+      <EmbedInteropTypes>False</EmbedInteropTypes>
+    </Reference>
     <Reference Include="Microsoft.VisualBasic" />
     <Reference Include="NPOI">
       <HintPath>F:\MyLib\MESSpreadsheet\bin\Debug\NPOI.dll</HintPath>
@@ -66,6 +70,8 @@
     <Compile Include="PCOperates\HardwareHandler.cs" />
     <Compile Include="PCOperates\USBInfoHelper.cs" />
     <Compile Include="PCOperates\USBInfoReadHelper.cs" />
+    <Compile Include="PrintUtil\CodeSoftPrint.cs" />
+    <Compile Include="PrintUtil\PrinterHelper.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup />
