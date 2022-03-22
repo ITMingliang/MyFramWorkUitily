@@ -22,3 +22,13 @@ G:\TPC\自研Tools\BOE_WriteSN\MyFramWorkUitily\Wml.Uitily\obj\Debug\Wml.Uitily.
 G:\TPC\自研Tools\BOE_WriteSN\MyFramWorkUitily\Wml.Uitily\obj\Debug\Wml.Uitily.csproj.CopyComplete
 G:\TPC\自研Tools\BOE_WriteSN\MyFramWorkUitily\Wml.Uitily\obj\Debug\Wml.Uitily.dll
 G:\TPC\自研Tools\BOE_WriteSN\MyFramWorkUitily\Wml.Uitily\obj\Debug\Wml.Uitily.pdb
+G:\TPC\Tools\BOE_WriteSN\MyFramWorkUitily\Wml.Uitily\bin\Debug\Wml.Uitily.dll
+G:\TPC\Tools\BOE_WriteSN\MyFramWorkUitily\Wml.Uitily\bin\Debug\Wml.Uitily.pdb
+G:\TPC\Tools\BOE_WriteSN\MyFramWorkUitily\Wml.Uitily\bin\Debug\BouncyCastle.Crypto.dll
+G:\TPC\Tools\BOE_WriteSN\MyFramWorkUitily\Wml.Uitily\bin\Debug\Interop.LabelManager2.dll
+G:\TPC\Tools\BOE_WriteSN\MyFramWorkUitily\Wml.Uitily\bin\Debug\itextsharp.dll
+G:\TPC\Tools\BOE_WriteSN\MyFramWorkUitily\Wml.Uitily\bin\Debug\itextsharp.xml
+G:\TPC\Tools\BOE_WriteSN\MyFramWorkUitily\Wml.Uitily\obj\Debug\Wml.Uitily.csproj.CoreCompileInputs.cache
+G:\TPC\Tools\BOE_WriteSN\MyFramWorkUitily\Wml.Uitily\obj\Debug\Wml.Uitily.csproj.CopyComplete
+G:\TPC\Tools\BOE_WriteSN\MyFramWorkUitily\Wml.Uitily\obj\Debug\Wml.Uitily.dll
+G:\TPC\Tools\BOE_WriteSN\MyFramWorkUitily\Wml.Uitily\obj\Debug\Wml.Uitily.pdb

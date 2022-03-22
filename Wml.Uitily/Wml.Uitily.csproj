@@ -31,12 +31,18 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="BouncyCastle.Crypto, Version=1.8.9.0, Culture=neutral, PublicKeyToken=0e99375e54769942">
+      <HintPath>..\..\packages\BouncyCastle.1.8.9\lib\BouncyCastle.Crypto.dll</HintPath>
+    </Reference>
     <Reference Include="DocumentFormat.OpenXml">
       <HintPath>F:\MyLib\MESSpreadsheet\bin\Debug\DocumentFormat.OpenXml.dll</HintPath>
     </Reference>
     <Reference Include="Interop.LabelManager2">
       <HintPath>..\..\..\..\..\MES_Src\BOE.Interface\BOE_Tool_LilinPrint\bin\Debug\Interop.LabelManager2.dll</HintPath>
       <EmbedInteropTypes>False</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="itextsharp, Version=5.5.13.3, Culture=neutral, PublicKeyToken=8354ae6d2174ddca, processorArchitecture=MSIL">
+      <HintPath>..\..\packages\iTextSharp.5.5.13.3\lib\itextsharp.dll</HintPath>
     </Reference>
     <Reference Include="Microsoft.VisualBasic" />
     <Reference Include="NPOI">
@@ -60,7 +66,9 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="CommonHelper\CacheHelper.cs" />
+    <Compile Include="CommonHelper\CodeLibrary.cs" />
     <Compile Include="COM\ComOperation.cs" />
+    <Compile Include="CommonHelper\PDFWaterMark.cs" />
     <Compile Include="CRCAlgorithm\CRC.cs" />
     <Compile Include="Excel\Monster.cs" />
     <Compile Include="FileOperates\FileCRCOperation.cs" />
@@ -77,6 +85,8 @@
     <Compile Include="PrintUtil\PrinterHelper.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
-  <ItemGroup />
+  <ItemGroup>
+    <None Include="packages.config" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
