@@ -61,7 +61,9 @@
   <ItemGroup>
     <Compile Include="CommonHelper\CacheHelper.cs" />
     <Compile Include="COM\ComOperation.cs" />
+    <Compile Include="CRCAlgorithm\CRC.cs" />
     <Compile Include="Excel\Monster.cs" />
+    <Compile Include="FileOperates\FileCRCOperation.cs" />
     <Compile Include="FileOperates\IniFile.cs" />
     <Compile Include="FileOperates\SystemIconHelper.cs" />
     <Compile Include="FileOperates\XMLHelper.cs" />
