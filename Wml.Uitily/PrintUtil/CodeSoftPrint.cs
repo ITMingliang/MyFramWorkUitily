@@ -10,7 +10,7 @@ namespace Wml.Uitily.PrintUtil
 {
     public class CodeSoftPrint
     {
-        #region 私有方法
+        #region  Interop.LabelManager2.dll
         /// <summary>
         /// 打印功能 CodeSoft
         /// </summary>
@@ -19,7 +19,7 @@ namespace Wml.Uitily.PrintUtil
         /// <param name="PrintParam3"></param>
         /// <param name="PrintParam4"></param>
         /// <returns></returns>
-        public bool BOE_SoftCodePrint(string PrintParam1 = "", string PrintParam2 = "", string PrintParam3 = "", string PrintParam4 = "")
+        public bool SoftCodePrint(string PrintParam1 = "", string PrintParam2 = "", string PrintParam3 = "", string PrintParam4 = "")
         {
             bool result = false;
             int printNum = 2;
