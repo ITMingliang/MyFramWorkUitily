@@ -163,7 +163,7 @@ namespace Wml.Uitily.COM
         public void SetComPara(string parPortNum, int parBaudRate, byte parByteSize, byte parParity, byte parStopBits)
         {
             //设置端口
-            this.PortNum = parPortNum;   //端口 1,2,3,4  
+            this.PortNum = parPortNum;    //端口 1,2,3,4  
 
             this.BaudRate = parBaudRate;    //1200,2400,4800,9600 每秒位数
             this.ByteSize = parByteSize;      //8   bits  数据位

@@ -185,6 +185,11 @@ namespace Wml.Uitily.CRCAlgorithm
         }
         #endregion
 
+        /// <summary>
+        /// 获取字符串的CRC校验
+        /// </summary>
+        /// <param name="crcString"></param>
+        /// <returns></returns>
         public static String getCrc16Code(String crcString)
         {
 
@@ -365,9 +370,7 @@ namespace Wml.Uitily.CRCAlgorithm
             CRC16Util crc16 = new CRC16Util();
             crc16.reset();
             crc16.update(ccc);
-            //Console.WriteLine(RealHexToStr(crc16.getCrcValue().ToString()));  
             byte[] test = intToByte(crc16.getCrcValue());
-            //log(RealHexToStr(crc16.getCrcValue().ToString()));  
             return test;
 
         }
@@ -392,10 +395,7 @@ namespace Wml.Uitily.CRCAlgorithm
             return abyte0;
         }
 
-        private static void log(Object obj)
-        {
-            //(obj);  
-        }
+      
 
         private static void printBytes(byte[] bytes)
         {

@@ -25,7 +25,7 @@ namespace Wml.Uitily.CommonHelper
                 pdfReader = new PdfReader(filePath);
                 pdfStamper = new PdfStamper(pdfReader, new FileStream(tempPath, FileMode.Create));
                 int total = pdfReader.NumberOfPages + 1;
-                iTextSharp.text.Rectangle psize = pdfReader.GetPageSize(1);
+                Rectangle psize = pdfReader.GetPageSize(1);
                 float width = psize.Width;
                 float height = psize.Height;
                 PdfContentByte content;
@@ -44,9 +44,7 @@ namespace Wml.Uitily.CommonHelper
                     content.SetColorFill(BaseColor.GRAY);
                     content.SetFontAndSize(font, 30);
                     content.SetTextMatrix(0, 0);
-                    content.ShowTextAligned(Element.ALIGN_CENTER, text, width - 80, height - 80, -45);
-                    //content.SetColorFill(BaseColor.BLACK);
-                    //content.SetFontAndSize(font, 8);
+                    content.ShowTextAligned(Element.ALIGN_CENTER, text, width - 80, height - 80, -45);//设置水印角度位置
                     //content.ShowTextAligned(Element.ALIGN_CENTER, waterMarkName, 0, 0, 0);
                     content.EndText();
                 }
@@ -62,8 +60,8 @@ namespace Wml.Uitily.CommonHelper
 
                 if (pdfReader != null)
                     pdfReader.Close();
-                System.IO.File.Copy(tempPath, filePath, true);
-                System.IO.File.Delete(tempPath);
+                 File.Copy(tempPath, filePath, true);
+                 File.Delete(tempPath);
             }
         }
     }
